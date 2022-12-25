@@ -6,7 +6,7 @@ aliases = ["about-vat"]
 author = "Connor Hallman"
 +++
 
-Value Added Telecom(VAT) was established in 2008 by its owner Tina Hallman.
+Value Added Telecom(VAT) was established in 2013 by its owner Tina Hallman.
 
 It is based less than a mile away from the beautiful beaches of La Jolla, CA.
 
